@@ -1,0 +1,2 @@
+It is just a sample of a simple project, which parsing game information for random game in google play store.
+Return information in json, which may will be use to any code part, for further using.
